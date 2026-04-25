@@ -1,0 +1,32 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+.python-version
+
+# Swift / Xcode
+.build/
+.swiftpm/
+*.xcodeproj/
+*.xcworkspace/
+
+# Built artifacts
+iSpow.app/
+
+# Personal planning + AI artifacts
+.claude/
+CLAUDE.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime / output
+.env
+.env.local
+crashes/
+*.local.json
+signing/
