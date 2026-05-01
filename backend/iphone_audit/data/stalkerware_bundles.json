@@ -1,0 +1,20 @@
+{
+  "version": "2026-05-03",
+  "source": "Coalition Against Stalkerware references + manual research",
+  "notes": "Update from public stalkerware-research projects. Match by bundle ID, not display name.",
+  "entries": [
+    {"bundle_id": "com.mspy.icloudbackup", "name": "mSpy", "vendor": "mSpy"},
+    {"bundle_id": "com.flexispy.app", "name": "FlexiSPY", "vendor": "FlexiSPY"},
+    {"bundle_id": "com.cocospy.app", "name": "Cocospy", "vendor": "Cocospy"},
+    {"bundle_id": "com.kidsguard.app", "name": "KidsGuard Pro", "vendor": "ClevGuard"},
+    {"bundle_id": "com.hoverwatch.client", "name": "Hoverwatch", "vendor": "Hoverwatch"},
+    {"bundle_id": "com.spyera.spy", "name": "Spyera", "vendor": "Spyera"},
+    {"bundle_id": "com.mobistealth.tracker", "name": "Mobistealth", "vendor": "Mobistealth"},
+    {"bundle_id": "com.xnspy.client", "name": "XNSpy", "vendor": "XNSpy"},
+    {"bundle_id": "com.spyhuman.spyclient", "name": "SpyHuman", "vendor": "SpyHuman"},
+    {"bundle_id": "com.theonespy.appx", "name": "TheOneSpy", "vendor": "TheOneSpy"},
+    {"bundle_id": "net.itrustpc.icontrolpro", "name": "iControlPro", "vendor": "iTrust"},
+    {"bundle_id": "com.mobilespy.tracker", "name": "MobileSpy", "vendor": "MobileSpy"},
+    {"bundle_id": "com.appmia.mobile", "name": "Appmia", "vendor": "Appmia"}
+  ]
+}
