@@ -189,8 +189,3 @@ iSpow/
 
 ---
 
-## License
-
-GPL-3.0-or-later. See `LICENSE`.
-
-This is a personal-use tool. It is provided as-is, with no warranty. Audit your own devices, not someone else's.
